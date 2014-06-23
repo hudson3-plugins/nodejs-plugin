@@ -5,12 +5,12 @@
         <groupId>org.eclipse.hudson.plugins</groupId>
         <artifactId>hudson-plugin-parent</artifactId>
         <version>3.0.0</version>
-    <relativePath/>
+    <relativePath />
   </parent>
 
     <groupId>org.hudsonci.plugins</groupId>
     <artifactId>nodejs</artifactId>
-    <version>0.2.1-h-1-SNAPSHOT</version>
+    <version>0.2.1-h-1</version>
     <name>NodeJS Plugin</name>
     <description>Executes NodeJS script as a build step.</description>
     <url>http://wiki.hudson-ci.org/display/HUDSON/NodeJS+Plugin</url>
